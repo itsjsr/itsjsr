@@ -4,4 +4,7 @@
 
 Hello I'm Jacob and i like coding 🥴 
 
-
+🎯 python
+🎯 javascript
+🎯 wordpress
+🎯 ux/ui
