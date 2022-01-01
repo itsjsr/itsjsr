@@ -2,4 +2,4 @@
 
 Hello I'm Jacob and i like coding 🥴 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjsr)](https://github.com/anuraghazra/github-readme-stats)
+![gifdino](https://user-images.githubusercontent.com/96948219/147855824-35a2198d-8dcf-4bb5-a060-af40c4624ad7.gif)
